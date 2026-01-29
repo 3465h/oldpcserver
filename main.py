@@ -5,7 +5,7 @@ from aiogram import Bot, Dispatcher, types, F
 from aiogram.filters import Command
 
 # Вставь сюда свой токен от BotFather
-TOKEN = "ТВОЙ_ТОКЕН_ЗДЕСЬ"
+TOKEN = "7559498057:AAF01gGarR2hC3-SgpLHKrzELpUEBNOuHD4"
 
 bot = Bot(token=TOKEN)
 dp = Dispatcher()
